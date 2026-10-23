@@ -1,0 +1,6 @@
+{
+  "name": "EduVibe AI - Nền Tảng Đào Tạo & Tuyển Sinh Thông Minh",
+  "description": "Landing page giáo dục thông minh tích hợp Chatbot AI Gemini 3.8 Flash tư vấn khóa học, thu thập lead tự động, thông báo email và Dashboard CRM phân tích chuyển đổi theo thời gian thực.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
